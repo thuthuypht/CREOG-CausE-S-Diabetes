@@ -1,0 +1,6 @@
+rdflib
+networkx
+numpy
+torch
+scikit-learn
+tqdm
